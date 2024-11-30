@@ -225,8 +225,7 @@ Run this command to start the server
 
 ## Screenshots
 
-![App Screenshot 1](https://i.postimg.cc/2yGPDGRb/Screenshot-2024-11-26-095609.png)
-
+[![Screenshot-2024-11-26-095609.png](https://i.postimg.cc/pTv6JmhJ/Screenshot-2024-11-26-095609.png)](https://postimg.cc/8Fy41Pb7)
 ![App Screenshot 2](https://i.postimg.cc/Yq25x5Y1/Screenshot-2024-11-26-095704.png)
 
 ![App Screenshot 3](https://i.postimg.cc/Yq25x5Y1/Screenshot-2024-11-26-095704.png)
